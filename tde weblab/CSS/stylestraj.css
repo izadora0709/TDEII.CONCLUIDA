@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    width: 600px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.foto{
+    height: 400px;
+    flex: 1;
+    transition: .7s;
+
+}
+
+.foto:hover{
+    flex: 3;
+}
+
+.foto img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+body{
+    background-color: #F0F2BD;
+}
+#cabeçalho{ height: 10%;
+    background-color: #4B352A;
+    color: #F0F2BD;
+    font-family: "Urbanist";
+    size: 16px;
+    text-align: center;
+}
+
+h3{
+    height: 10%;
+    background-color: #CA7842;
+    color: #F0F2BD;
+    font-family: "Urbanist";
+    size: 16px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+p{
+    height: 10%;
+    background-color: #B2CD9C;
+    color: #4B352A;
+    font-family: "Urbanist";
+    size: 16px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+h2{
+    height: 10%;
+    background-color: #B2CD9C;
+    color: #4B352A;
+    font-family: "Urbanist";
+    size: 16px;
+    text-align: center;
+    margin-top: 5%;
+}

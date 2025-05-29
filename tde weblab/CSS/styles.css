@@ -1,0 +1,50 @@
+nav{ 
+    position: fixed; 
+    top: 0;        
+    left: 0;      
+    width: 100%;   
+    
+}
+section{
+    height: 5%;
+    background-color: #B2CD9C;
+    padding: 1%;
+    color: black;
+    font-family:  "Urbanist";
+    font-size: 14px;
+    
+   
+}
+.barra {
+  display: inline-block;
+  justify-content: space-between;
+  margin-right: 5%;
+  margin-inline: 5%;
+  margin-top: 0%;
+  font-size: 16px;
+  color:#F0F2BD;
+ 
+}
+
+body{
+     background-color: #F0F2BD;}
+
+#cabeçalho { height: 10%;
+    
+    background-color: #4B352A;
+    color: black;
+    font-family: "Urbanist";
+    size: 16px;}
+
+a{
+    text-decoration: none;
+    color:#F0F2BD;
+}
+
+#escolha{
+    color: #4B352A;
+}
+
+
+
+
